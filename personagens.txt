@@ -2,3 +2,5 @@ Luke Skywalker
 Obi Wan Knobi
 Master Yoda
 Jabba the Hutt
+Chewbacca
+Han Solo
